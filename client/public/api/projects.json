@@ -1,0 +1,47 @@
+[
+  {
+    "id": "king-of-tacos",
+    "name": "King of Tacos",
+    "category": "Restauration · Développement web",
+    "description": "Conception et réalisation complète de l’application web de prise de commande et de l’espace d’administration du restaurant.",
+    "highlights": [
+      "Application web de prise de commande",
+      "Espace administrateur pour la gestion du restaurant",
+      "Initialisation de la base de données",
+      "Déploiement et maintenance sur serveur"
+    ],
+    "caseStudy": {
+      "summary": "Une application web qui réunit la prise de commande côté client et un espace d’administration pour le restaurant.",
+      "role": "Réalisation complète de l’application par OKOUME DIGITAL.",
+      "delivery": "Initialisation de la base de données, déploiement sur serveur et maintenance continue."
+    },
+    "href": "https://kingoftacos.com",
+    "type": "client",
+    "visual": "tacos",
+    "screenshot": "/images/king-of-tacos-home.png",
+    "screenshotAlt": "Capture de la page d’accueil de King of Tacos, avec les liens Accueil, Menu, Commandes, Panier et Connexion, suivie d’une bannière de commande.",
+    "screenshots": [
+      {
+        "src": "/images/king-of-tacos-dashboard.png",
+        "alt": "Tableau de bord d’administration de King of Tacos. Les données de commandes, montants et stocks sont masquées.",
+        "caption": "Espace d’administration · Tableau de bord (données masquées)"
+      },
+      {
+        "src": "/images/king-of-tacos-cashier.png",
+        "alt": "Écran Mode Caisse de King of Tacos avec l’état de la caisse, les commandes, dépenses et rapports.",
+        "caption": "Espace d’administration · Mode caisse"
+      }
+    ],
+    "label": "RÉALISATION CLIENT"
+  },
+  {
+    "id": "campus-suite",
+    "name": "Gestion universitaire & e-learning",
+    "category": "SaaS · Éducation",
+    "description": "Une plateforme de gestion administrative et d’apprentissage en ligne, actuellement en conception.",
+    "href": "#contact",
+    "type": "in-progress",
+    "visual": "campus",
+    "label": "EN DÉVELOPPEMENT"
+  }
+]
